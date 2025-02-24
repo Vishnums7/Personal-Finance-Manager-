@@ -12,7 +12,7 @@ import SetAvatar from './Pages/Avatar/setAvatar';
 const App = () => {
   return (
     
-      <div className="App" style={{backgroundColor:'grey'}}>
+      <div className="App" style={{backgroundColor:'black'}}>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
